@@ -1,0 +1,722 @@
+[
+    {
+        "_id": "6623f2c2bfc75b0ea7c62afa",
+        "identificador": "PE ",
+        "valor": -60.83,
+        "unidad": "gr"
+    },
+    {
+        "_id": "6623f2c4bfc75b0ea7c62afc",
+        "identificador": "UL1 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f2c5bfc75b0ea7c62afe",
+        "identificador": "UL2 ",
+        "valor": 89.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f2c7bfc75b0ea7c62b00",
+        "identificador": "UL3 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f2cfbfc75b0ea7c62b06",
+        "identificador": "PE ",
+        "valor": -32.81,
+        "unidad": "gr"
+    },
+    {
+        "_id": "6623f2d1bfc75b0ea7c62b08",
+        "identificador": "UL1 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f2d3bfc75b0ea7c62b0a",
+        "identificador": "UL2 ",
+        "valor": 107.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f2d5bfc75b0ea7c62b0c",
+        "identificador": "UL3 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f2ddbfc75b0ea7c62b12",
+        "identificador": "PE ",
+        "valor": 12.81,
+        "unidad": "gr"
+    },
+    {
+        "_id": "6623f2dfbfc75b0ea7c62b14",
+        "identificador": "UL1 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f2e1bfc75b0ea7c62b16",
+        "identificador": "UL2 ",
+        "valor": 90.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f2e3bfc75b0ea7c62b18",
+        "identificador": "UL3 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f2ebbfc75b0ea7c62b1e",
+        "identificador": "PE ",
+        "valor": 112.96,
+        "unidad": "gr"
+    },
+    {
+        "_id": "6623f2edbfc75b0ea7c62b20",
+        "identificador": "UL1 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f2efbfc75b0ea7c62b22",
+        "identificador": "UL2 ",
+        "valor": 104.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f2f1bfc75b0ea7c62b24",
+        "identificador": "UL3 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f2f8bfc75b0ea7c62b2a",
+        "identificador": "PE ",
+        "valor": 2.22,
+        "unidad": "gr"
+    },
+    {
+        "_id": "6623f2fabfc75b0ea7c62b2c",
+        "identificador": "UL1 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f2fcbfc75b0ea7c62b2e",
+        "identificador": "UL2 ",
+        "valor": 39.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f2febfc75b0ea7c62b30",
+        "identificador": "UL3 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f306bfc75b0ea7c62b36",
+        "identificador": "PE ",
+        "valor": 0.72,
+        "unidad": "gr"
+    },
+    {
+        "_id": "6623f308bfc75b0ea7c62b38",
+        "identificador": "UL1 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f30fbfc75b0ea7c62b3a",
+        "identificador": "UL2 ",
+        "valor": 108.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f311bfc75b0ea7c62b3c",
+        "identificador": "UL3 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f31bbfc75b0ea7c62b42",
+        "identificador": "PE ",
+        "valor": 1.67,
+        "unidad": "gr"
+    },
+    {
+        "_id": "6623f31dbfc75b0ea7c62b44",
+        "identificador": "UL1 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f31fbfc75b0ea7c62b46",
+        "identificador": "UL2 ",
+        "valor": 109.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f321bfc75b0ea7c62b48",
+        "identificador": "UL3 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f328bfc75b0ea7c62b4e",
+        "identificador": "PE ",
+        "valor": 1.19,
+        "unidad": "gr"
+    },
+    {
+        "_id": "6623f32abfc75b0ea7c62b50",
+        "identificador": "UL1 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f32cbfc75b0ea7c62b52",
+        "identificador": "UL2 ",
+        "valor": 94.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f32ebfc75b0ea7c62b54",
+        "identificador": "UL3 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f336bfc75b0ea7c62b5a",
+        "identificador": "PE ",
+        "valor": 0.78,
+        "unidad": "gr"
+    },
+    {
+        "_id": "6623f338bfc75b0ea7c62b5c",
+        "identificador": "UL1 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f33abfc75b0ea7c62b5e",
+        "identificador": "UL2 ",
+        "valor": 105.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f33cbfc75b0ea7c62b60",
+        "identificador": "UL3 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f344bfc75b0ea7c62b66",
+        "identificador": "PE ",
+        "valor": 0.56,
+        "unidad": "gr"
+    },
+    {
+        "_id": "6623f346bfc75b0ea7c62b68",
+        "identificador": "UL1 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f348bfc75b0ea7c62b6a",
+        "identificador": "UL2 ",
+        "valor": 26.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f34abfc75b0ea7c62b6c",
+        "identificador": "UL3 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f351bfc75b0ea7c62b72",
+        "identificador": "PE ",
+        "valor": 0.47,
+        "unidad": "gr"
+    },
+    {
+        "_id": "6623f353bfc75b0ea7c62b74",
+        "identificador": "UL1 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f355bfc75b0ea7c62b76",
+        "identificador": "UL2 ",
+        "valor": 103.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f358bfc75b0ea7c62b78",
+        "identificador": "UL3 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f362bfc75b0ea7c62b7e",
+        "identificador": "PE ",
+        "valor": 0.94,
+        "unidad": "gr"
+    },
+    {
+        "_id": "6623f364bfc75b0ea7c62b80",
+        "identificador": "UL1 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f366bfc75b0ea7c62b82",
+        "identificador": "UL2 ",
+        "valor": 108.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f368bfc75b0ea7c62b84",
+        "identificador": "UL3 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f370bfc75b0ea7c62b8a",
+        "identificador": "PE ",
+        "valor": 0.18,
+        "unidad": "gr"
+    },
+    {
+        "_id": "6623f372bfc75b0ea7c62b8c",
+        "identificador": "UL1 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f374bfc75b0ea7c62b8e",
+        "identificador": "UL2 ",
+        "valor": 14.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f376bfc75b0ea7c62b90",
+        "identificador": "UL3 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f37ebfc75b0ea7c62b96",
+        "identificador": "PE ",
+        "valor": 0.24,
+        "unidad": "gr"
+    },
+    {
+        "_id": "6623f380bfc75b0ea7c62b98",
+        "identificador": "UL1 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f382bfc75b0ea7c62b9a",
+        "identificador": "UL2 ",
+        "valor": 109.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f384bfc75b0ea7c62b9c",
+        "identificador": "UL3 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f38dbfc75b0ea7c62ba2",
+        "identificador": "PE ",
+        "valor": 0.27,
+        "unidad": "gr"
+    },
+    {
+        "_id": "6623f38fbfc75b0ea7c62ba4",
+        "identificador": "UL1 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f391bfc75b0ea7c62ba6",
+        "identificador": "UL2 ",
+        "valor": 109.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f393bfc75b0ea7c62ba8",
+        "identificador": "UL3 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f39bbfc75b0ea7c62bae",
+        "identificador": "PE ",
+        "valor": 0.24,
+        "unidad": "gr"
+    },
+    {
+        "_id": "6623f39dbfc75b0ea7c62bb0",
+        "identificador": "UL1 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f39fbfc75b0ea7c62bb2",
+        "identificador": "UL2 ",
+        "valor": 3.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f3a1bfc75b0ea7c62bb4",
+        "identificador": "UL3 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f3abbfc75b0ea7c62bba",
+        "identificador": "PE ",
+        "valor": 0.74,
+        "unidad": "gr"
+    },
+    {
+        "_id": "6623f3adbfc75b0ea7c62bbc",
+        "identificador": "UL1 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f3afbfc75b0ea7c62bbe",
+        "identificador": "UL2 ",
+        "valor": 118.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f3b1bfc75b0ea7c62bc0",
+        "identificador": "UL3 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f3b9bfc75b0ea7c62bc6",
+        "identificador": "PE ",
+        "valor": 0.47,
+        "unidad": "gr"
+    },
+    {
+        "_id": "6623f3bbbfc75b0ea7c62bc8",
+        "identificador": "UL1 ",
+        "valor": 77.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f3bdbfc75b0ea7c62bca",
+        "identificador": "UL2 ",
+        "valor": 107.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f3bfbfc75b0ea7c62bcc",
+        "identificador": "UL3 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f3c6bfc75b0ea7c62bd2",
+        "identificador": "PE ",
+        "valor": 0.59,
+        "unidad": "gr"
+    },
+    {
+        "_id": "6623f3c8bfc75b0ea7c62bd4",
+        "identificador": "UL1 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f3cabfc75b0ea7c62bd6",
+        "identificador": "UL2 ",
+        "valor": 118.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f3ccbfc75b0ea7c62bd8",
+        "identificador": "UL3 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f3d4bfc75b0ea7c62bde",
+        "identificador": "PE ",
+        "valor": 0.33,
+        "unidad": "gr"
+    },
+    {
+        "_id": "6623f3d6bfc75b0ea7c62be0",
+        "identificador": "UL1 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f3d8bfc75b0ea7c62be2",
+        "identificador": "UL2 ",
+        "valor": 115.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f3dabfc75b0ea7c62be4",
+        "identificador": "UL3 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f3e2bfc75b0ea7c62bea",
+        "identificador": "PE ",
+        "valor": 0.18,
+        "unidad": "gr"
+    },
+    {
+        "_id": "6623f3e4bfc75b0ea7c62bec",
+        "identificador": "UL1 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f3e6bfc75b0ea7c62bee",
+        "identificador": "UL2 ",
+        "valor": 86.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f3e8bfc75b0ea7c62bf0",
+        "identificador": "UL3 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f3f2bfc75b0ea7c62bf6",
+        "identificador": "PE ",
+        "valor": 0.22,
+        "unidad": "gr"
+    },
+    {
+        "_id": "6623f3f4bfc75b0ea7c62bf8",
+        "identificador": "UL1 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f3f6bfc75b0ea7c62bfa",
+        "identificador": "UL2 ",
+        "valor": 80.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f3f8bfc75b0ea7c62bfc",
+        "identificador": "UL3 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f400bfc75b0ea7c62c02",
+        "identificador": "PE ",
+        "valor": 1.0,
+        "unidad": "gr"
+    },
+    {
+        "_id": "6623f402bfc75b0ea7c62c04",
+        "identificador": "UL1 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f404bfc75b0ea7c62c06",
+        "identificador": "UL2 ",
+        "valor": 24.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f406bfc75b0ea7c62c08",
+        "identificador": "UL3 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f40ebfc75b0ea7c62c0e",
+        "identificador": "PE ",
+        "valor": 0.45,
+        "unidad": "gr"
+    },
+    {
+        "_id": "6623f410bfc75b0ea7c62c10",
+        "identificador": "UL1 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f412bfc75b0ea7c62c12",
+        "identificador": "UL2 ",
+        "valor": 112.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f414bfc75b0ea7c62c14",
+        "identificador": "UL3 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f41cbfc75b0ea7c62c1a",
+        "identificador": "PE ",
+        "valor": 0.49,
+        "unidad": "gr"
+    },
+    {
+        "_id": "6623f41ebfc75b0ea7c62c1c",
+        "identificador": "UL1 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f420bfc75b0ea7c62c1e",
+        "identificador": "UL2 ",
+        "valor": 112.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f422bfc75b0ea7c62c20",
+        "identificador": "UL3 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f42fbfc75b0ea7c62c26",
+        "identificador": "PE ",
+        "valor": 10.07,
+        "unidad": "gr"
+    },
+    {
+        "_id": "6623f431bfc75b0ea7c62c28",
+        "identificador": "UL1 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f433bfc75b0ea7c62c2a",
+        "identificador": "UL2 ",
+        "valor": 104.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f435bfc75b0ea7c62c2c",
+        "identificador": "UL3 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f43fbfc75b0ea7c62c32",
+        "identificador": "PE ",
+        "valor": 1.81,
+        "unidad": "gr"
+    },
+    {
+        "_id": "6623f441bfc75b0ea7c62c34",
+        "identificador": "UL1 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f443bfc75b0ea7c62c36",
+        "identificador": "UL2 ",
+        "valor": 113.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f445bfc75b0ea7c62c38",
+        "identificador": "UL3 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f44dbfc75b0ea7c62c3e",
+        "identificador": "PE ",
+        "valor": 0.22,
+        "unidad": "gr"
+    },
+    {
+        "_id": "6623f44fbfc75b0ea7c62c40",
+        "identificador": "UL1 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f451bfc75b0ea7c62c42",
+        "identificador": "UL2 ",
+        "valor": 54.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f453bfc75b0ea7c62c44",
+        "identificador": "UL3 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f45bbfc75b0ea7c62c4a",
+        "identificador": "PE ",
+        "valor": 0.23,
+        "unidad": "gr"
+    },
+    {
+        "_id": "6623f45dbfc75b0ea7c62c4c",
+        "identificador": "UL1 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f460bfc75b0ea7c62c4e",
+        "identificador": "UL2 ",
+        "valor": 114.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f467bfc75b0ea7c62c50",
+        "identificador": "UL3 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f46fbfc75b0ea7c62c56",
+        "identificador": "PE ",
+        "valor": 0.9,
+        "unidad": "gr"
+    },
+    {
+        "_id": "6623f472bfc75b0ea7c62c58",
+        "identificador": "UL1 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f474bfc75b0ea7c62c5a",
+        "identificador": "UL2 ",
+        "valor": 8.0,
+        "unidad": "cm"
+    },
+    {
+        "_id": "6623f476bfc75b0ea7c62c5c",
+        "identificador": "UL3 ",
+        "valor": 357.0,
+        "unidad": "cm"
+    }
+]
